@@ -18,5 +18,5 @@ There are three main purposes behind these code snippets, and
 | Script Name | Description |
 | --- | --- |
 | colors.sh | Display a Grid of Terminal Colors |
-| root-check.sh | Checks to ensure the User has root privileges |
+| root_check.sh | Checks to ensure the User has root privileges |
 
