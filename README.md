@@ -1,5 +1,5 @@
 # Bash Snippets
-A collection of Bash snippets for use, evaluation, and updates.
+A collection of Bash snippets for use, evaluation, and updates.  Many of these are authored by me, but some are simply good scripts that I've found useful over time.  If you are curious about the authors, please take a look inside the script.
 ## Purpose
 There are three main purposes behind these code snippets, and 
 * To document scripts performing very specific functions
@@ -14,5 +14,9 @@ There are three main purposes behind these code snippets, and
 * To help others see learn
   * Intended to be documented well
   * Brief, specific examples
-## Placeholder
-For future innovation and awesomeness!
+## The Scripts
+| Script Name | Description |
+| --- | --- |
+| colors.sh | Display a Grid of Terminal Colors |
+| root-check.sh | Checks to ensure the User has root privileges |
+
