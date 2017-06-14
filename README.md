@@ -19,4 +19,6 @@ There are three main purposes behind these code snippets, and
 | --- | --- |
 | colors.sh | Display a Grid of Terminal Colors |
 | root_check.sh | Checks to ensure the User has root privileges |
+| sw.sh | A simple stopwatch or countdown timer |
+
 
