@@ -18,7 +18,7 @@ There are three main purposes behind these code snippets, and
 | Script Name | Description |
 | --- | --- |
 | colors.sh | Display a Grid of Terminal Colors |
-| root_check.sh | Checks to ensure the User has root privileges |
+| password_test.sh | Validate password inputs and check against hash |
 | sw.sh | A simple stopwatch or countdown timer |
-
+| root_check.sh | Checks to ensure the User has root privileges |
 
