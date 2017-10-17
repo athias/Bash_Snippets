@@ -19,6 +19,7 @@ There are three main purposes behind these code snippets, and
 | --- | --- |
 | colors.sh | Display a Grid of Terminal Colors |
 | password_test.sh | Validate password inputs and check against hash |
-| sw.sh | A simple stopwatch or countdown timer |
+| pid_watch.sh | Function to track pid of a background process |
 | root_check.sh | Checks to ensure the User has root privileges |
-
+| sub_script_pid.sh | Identifies pid of a process within a function |
+| sw.sh | A simple stopwatch or countdown timer |
